@@ -1,0 +1,504 @@
+
+Snapshot: Data/CRWV/CRWV_2025-04-21 00:00:00+00:00.csv
+     100 → impact = 0.2100
+     500 → impact = 0.2100
+    1000 → impact = 0.2100
+    2000 → impact = 0.2100
+    5000 → impact = 0.2100
+  Fit: g(X) = 0.210000 * X^-0.000
+
+Snapshot: Data/CRWV/CRWV_2025-04-11 00:00:00+00:00.csv
+     100 → impact = 0.0050
+     500 → impact = 0.3148
+    1000 → impact = 0.5026
+    2000 → impact = 0.6988
+    5000 → impact = 0.8165
+  Fit: g(X) = 0.000033 * X^1.297
+
+Snapshot: Data/CRWV/CRWV_2025-04-22 00:00:00+00:00.csv
+     100 → impact = 0.1200
+     500 → impact = 0.1653
+    1000 → impact = 0.1993
+    2000 → impact = 0.3176
+    5000 → impact = 0.3970
+  Fit: g(X) = 0.025209 * X^0.319
+
+Snapshot: Data/CRWV/CRWV_2025-04-29 00:00:00+00:00.csv
+     100 → impact = 0.2899
+     500 → impact = 0.3579
+    1000 → impact = 0.4478
+    2000 → impact = 0.5089
+    5000 → impact = 0.5456
+  Fit: g(X) = 0.129687 * X^0.173
+
+Snapshot: Data/CRWV/CRWV_2025-04-24 00:00:00+00:00.csv
+     100 → impact = 0.4820
+     500 → impact = 0.5324
+    1000 → impact = 0.5594
+    2000 → impact = 0.5822
+    5000 → impact = 0.6962
+  Fit: g(X) = 0.313343 * X^0.087
+
+Snapshot: Data/CRWV/CRWV_2025-04-14 00:00:00+00:00.csv
+     100 → impact = 0.0916
+     500 → impact = 0.1943
+    1000 → impact = 0.2207
+    2000 → impact = 0.2953
+    5000 → impact = 0.4366
+  Fit: g(X) = 0.015730 * X^0.389
+
+Snapshot: Data/CRWV/CRWV_2025-04-04 00:00:00+00:00.csv
+     100 → impact = 0.1000
+     500 → impact = 0.4565
+    1000 → impact = 0.8016
+    2000 → impact = 1.0472
+    5000 → impact = 1.4449
+  Fit: g(X) = 0.005145 * X^0.693
+
+Snapshot: Data/CRWV/CRWV_2025-04-09 00:00:00+00:00.csv
+     100 → impact = 0.2566
+     500 → impact = 0.3715
+    1000 → impact = 0.3883
+    2000 → impact = 0.6299
+    5000 → impact = 0.9570
+  Fit: g(X) = 0.049674 * X^0.331
+
+Snapshot: Data/CRWV/CRWV_2025-04-07 00:00:00+00:00.csv
+     100 → impact = 0.0450
+     500 → impact = 0.9129
+    1000 → impact = 1.2643
+    2000 → impact = 1.6346
+    5000 → impact = 1.8569
+  Fit: g(X) = 0.001144 * X^0.946
+
+Snapshot: Data/CRWV/CRWV_2025-04-17 00:00:00+00:00.csv
+     100 → impact = 0.0050
+     500 → impact = 0.3210
+    1000 → impact = 0.3630
+    2000 → impact = 0.4557
+    5000 → impact = 0.6867
+  Fit: g(X) = 0.000048 * X^1.216
+
+Snapshot: Data/CRWV/CRWV_2025-04-16 00:00:00+00:00.csv
+     100 → impact = 0.1900
+     500 → impact = 0.1947
+    1000 → impact = 0.2124
+    2000 → impact = 0.2212
+    5000 → impact = 0.3460
+  Fit: g(X) = 0.091402 * X^0.134
+
+Snapshot: Data/CRWV/CRWV_2025-05-01 00:00:00+00:00.csv
+     100 → impact = 0.0250
+     500 → impact = 0.0250
+    1000 → impact = 0.0948
+    2000 → impact = 0.2699
+    5000 → impact = 0.3750
+  Fit: g(X) = 0.000437 * X^0.788
+
+Snapshot: Data/CRWV/CRWV_2025-04-28 00:00:00+00:00.csv
+     100 → impact = 0.2874
+     500 → impact = 0.3668
+    1000 → impact = 0.4949
+    2000 → impact = 0.5774
+    5000 → impact = 0.6270
+  Fit: g(X) = 0.105375 * X^0.215
+
+Snapshot: Data/CRWV/CRWV_2025-04-25 00:00:00+00:00.csv
+     100 → impact = 0.3150
+     500 → impact = 0.6799
+    1000 → impact = 0.8474
+    2000 → impact = 0.9312
+    5000 → impact = 0.9815
+  Fit: g(X) = 0.093650 * X^0.297
+
+Snapshot: Data/CRWV/CRWV_2025-04-08 00:00:00+00:00.csv
+     100 → impact = 0.5229
+     500 → impact = 0.6126
+    1000 → impact = 0.6547
+    2000 → impact = 0.7149
+    5000 → impact = 0.7509
+  Fit: g(X) = 0.338512 * X^0.095
+
+Snapshot: Data/CRWV/CRWV_2025-05-02 00:00:00+00:00.csv
+     100 → impact = 0.1900
+     500 → impact = 0.1900
+    1000 → impact = 0.1998
+    2000 → impact = 0.2229
+    5000 → impact = 0.4415
+  Fit: g(X) = 0.067373 * X^0.184
+
+Snapshot: Data/CRWV/CRWV_2025-04-15 00:00:00+00:00.csv
+     100 → impact = 0.2706
+     500 → impact = 0.5771
+    1000 → impact = 0.6986
+    2000 → impact = 0.7593
+    5000 → impact = 0.9798
+  Fit: g(X) = 0.068474 * X^0.322
+
+Snapshot: Data/CRWV/CRWV_2025-04-03 00:00:00+00:00.csv
+     100 → impact = 0.1500
+     500 → impact = 0.2874
+    1000 → impact = 0.7546
+    2000 → impact = 1.1023
+    5000 → impact = 1.3109
+  Fit: g(X) = 0.008937 * X^0.607
+
+Snapshot: Data/CRWV/CRWV_2025-04-23 00:00:00+00:00.csv
+     100 → impact = 0.0750
+     500 → impact = 0.0750
+    1000 → impact = 0.1500
+    2000 → impact = 0.2095
+    5000 → impact = 0.2564
+  Fit: g(X) = 0.012323 * X^0.354
+
+Snapshot: Data/CRWV/CRWV_2025-04-30 00:00:00+00:00.csv
+     100 → impact = 0.2114
+     500 → impact = 0.3793
+    1000 → impact = 0.4776
+    2000 → impact = 0.6448
+    5000 → impact = 0.8589
+  Fit: g(X) = 0.040001 * X^0.362
+
+Snapshot: Data/CRWV/CRWV_2025-04-10 00:00:00+00:00.csv
+     100 → impact = 0.1700
+     500 → impact = 0.5973
+    1000 → impact = 0.8076
+    2000 → impact = 0.9238
+    5000 → impact = 0.9935
+  Fit: g(X) = 0.026793 * X^0.458
+
+Snapshot: Data/SOUN/SOUN_2025-04-17 00:00:00+00:00.csv
+     100 → impact = 0.0576
+     500 → impact = 0.0635
+    1000 → impact = 0.0643
+    2000 → impact = 0.0721
+    5000 → impact = 0.1015
+  Fit: g(X) = 0.029174 * X^0.130
+
+Snapshot: Data/SOUN/SOUN_2025-04-07 00:00:00+00:00.csv
+     100 → impact = 0.0620
+     500 → impact = 0.0684
+    1000 → impact = 0.0692
+    2000 → impact = 0.0696
+    5000 → impact = 0.0698
+  Fit: g(X) = 0.055190 * X^0.030
+
+Snapshot: Data/SOUN/SOUN_2025-04-04 00:00:00+00:00.csv
+     100 → impact = 0.0300
+     500 → impact = 0.0300
+    1000 → impact = 0.0300
+    2000 → impact = 0.0300
+    5000 → impact = 0.0934
+  Fit: g(X) = 0.008113 * X^0.227
+
+Snapshot: Data/SOUN/SOUN_2025-04-09 00:00:00+00:00.csv
+     100 → impact = 0.0674
+     500 → impact = 0.0735
+    1000 → impact = 0.0742
+    2000 → impact = 0.0770
+    5000 → impact = 0.0892
+  Fit: g(X) = 0.049038 * X^0.065
+
+Snapshot: Data/SOUN/SOUN_2025-04-14 00:00:00+00:00.csv
+     100 → impact = 0.0050
+     500 → impact = 0.0255
+    1000 → impact = 0.0416
+    2000 → impact = 0.0754
+    5000 → impact = 0.0992
+  Fit: g(X) = 0.000163 * X^0.784
+
+Snapshot: Data/SOUN/SOUN_2025-04-29 00:00:00+00:00.csv
+     100 → impact = 0.0100
+     500 → impact = 0.0100
+    1000 → impact = 0.0100
+    2000 → impact = 0.0100
+    5000 → impact = 0.0100
+  Fit: g(X) = 0.010000 * X^-0.000
+
+Snapshot: Data/SOUN/SOUN_2025-04-24 00:00:00+00:00.csv
+     100 → impact = 0.0474
+     500 → impact = 0.0830
+    1000 → impact = 0.0965
+    2000 → impact = 0.1073
+    5000 → impact = 0.1149
+  Fit: g(X) = 0.018094 * X^0.230
+
+Snapshot: Data/SOUN/SOUN_2025-04-22 00:00:00+00:00.csv
+     100 → impact = 0.0050
+     500 → impact = 0.0110
+    1000 → impact = 0.0256
+    2000 → impact = 0.0731
+    5000 → impact = 0.1157
+  Fit: g(X) = 0.000078 * X^0.858
+
+Snapshot: Data/SOUN/SOUN_2025-04-11 00:00:00+00:00.csv
+     100 → impact = 0.0490
+     500 → impact = 0.0855
+    1000 → impact = 0.1052
+    2000 → impact = 0.1443
+    5000 → impact = 0.2023
+  Fit: g(X) = 0.009041 * X^0.363
+
+Snapshot: Data/SOUN/SOUN_2025-04-21 00:00:00+00:00.csv
+     100 → impact = 0.0100
+     500 → impact = 0.0180
+    1000 → impact = 0.0350
+    2000 → impact = 0.0745
+    5000 → impact = 0.1018
+  Fit: g(X) = 0.000462 * X^0.636
+
+Snapshot: Data/SOUN/SOUN_2025-04-10 00:00:00+00:00.csv
+     100 → impact = 0.1131
+     500 → impact = 0.1146
+    1000 → impact = 0.1148
+    2000 → impact = 0.1149
+    5000 → impact = 0.1150
+  Fit: g(X) = 0.111302 * X^0.004
+
+Snapshot: Data/SOUN/SOUN_2025-04-30 00:00:00+00:00.csv
+     100 → impact = 0.0200
+     500 → impact = 0.0320
+    1000 → impact = 0.0360
+    2000 → impact = 0.0689
+    5000 → impact = 0.1116
+  Fit: g(X) = 0.002268 * X^0.440
+
+Snapshot: Data/SOUN/SOUN_2025-04-23 00:00:00+00:00.csv
+     100 → impact = 0.0150
+     500 → impact = 0.0332
+    1000 → impact = 0.0441
+    2000 → impact = 0.0496
+    5000 → impact = 0.0631
+  Fit: g(X) = 0.003079 * X^0.367
+
+Snapshot: Data/SOUN/SOUN_2025-04-03 00:00:00+00:00.csv
+     100 → impact = 0.0100
+     500 → impact = 0.0616
+    1000 → impact = 0.0858
+    2000 → impact = 0.1217
+    5000 → impact = 0.1507
+  Fit: g(X) = 0.000557 * X^0.698
+
+Snapshot: Data/SOUN/SOUN_2025-05-02 00:00:00+00:00.csv
+     100 → impact = 0.0150
+     500 → impact = 0.0709
+    1000 → impact = 0.0942
+    2000 → impact = 0.1227
+    5000 → impact = 0.1481
+  Fit: g(X) = 0.001334 * X^0.587
+
+Snapshot: Data/SOUN/SOUN_2025-04-15 00:00:00+00:00.csv
+     100 → impact = 0.0200
+     500 → impact = 0.0280
+    1000 → impact = 0.0428
+    2000 → impact = 0.0723
+    5000 → impact = 0.1069
+  Fit: g(X) = 0.002179 * X^0.447
+
+Snapshot: Data/SOUN/SOUN_2025-04-08 00:00:00+00:00.csv
+     100 → impact = 0.0100
+     500 → impact = 0.0180
+    1000 → impact = 0.0190
+    2000 → impact = 0.0210
+    5000 → impact = 0.0264
+  Fit: g(X) = 0.003616 * X^0.237
+
+Snapshot: Data/SOUN/SOUN_2025-04-28 00:00:00+00:00.csv
+     100 → impact = 0.0250
+     500 → impact = 0.0328
+    1000 → impact = 0.0589
+    2000 → impact = 0.0769
+    5000 → impact = 0.1042
+  Fit: g(X) = 0.003775 * X^0.388
+
+Snapshot: Data/SOUN/SOUN_2025-04-25 00:00:00+00:00.csv
+     100 → impact = 0.0150
+     500 → impact = 0.0719
+    1000 → impact = 0.0835
+    2000 → impact = 0.0892
+    5000 → impact = 0.1136
+  Fit: g(X) = 0.002080 * X^0.501
+
+Snapshot: Data/SOUN/SOUN_2025-04-16 00:00:00+00:00.csv
+     100 → impact = 0.0796
+     500 → impact = 0.0799
+    1000 → impact = 0.0848
+    2000 → impact = 0.1031
+    5000 → impact = 0.1547
+  Fit: g(X) = 0.033304 * X^0.158
+
+Snapshot: Data/SOUN/SOUN_2025-05-01 00:00:00+00:00.csv
+     100 → impact = 0.0150
+     500 → impact = 0.0430
+    1000 → impact = 0.0690
+    2000 → impact = 0.0847
+    5000 → impact = 0.0969
+  Fit: g(X) = 0.001816 * X^0.494
+
+Snapshot: Data/FROG/FROG_2025-04-15 00:00:00+00:00.csv
+     100 → impact = 1.3998
+     500 → impact = 1.4952
+    1000 → impact = 1.9004
+    2000 → impact = 2.2619
+    5000 → impact = 2.5547
+  Fit: g(X) = 0.607142 * X^0.166
+
+Snapshot: Data/FROG/FROG_2025-05-02 00:00:00+00:00.csv
+     100 → impact = 0.9750
+     500 → impact = 1.3948
+    1000 → impact = 1.6349
+    2000 → impact = 1.9507
+    5000 → impact = 2.3978
+  Fit: g(X) = 0.334412 * X^0.231
+
+Snapshot: Data/FROG/FROG_2025-04-08 00:00:00+00:00.csv
+     100 → impact = 2.5250
+     500 → impact = 3.0675
+    1000 → impact = 3.1763
+    2000 → impact = 3.3237
+    5000 → impact = 3.6185
+  Fit: g(X) = 1.705599 * X^0.089
+
+Snapshot: Data/FROG/FROG_2025-04-25 00:00:00+00:00.csv
+     100 → impact = 1.3110
+     500 → impact = 1.7538
+    1000 → impact = 2.0346
+    2000 → impact = 2.2017
+    5000 → impact = 2.4550
+  Fit: g(X) = 0.632965 * X^0.163
+
+Snapshot: Data/FROG/FROG_2025-04-28 00:00:00+00:00.csv
+     100 → impact = 0.9375
+     500 → impact = 1.1571
+    1000 → impact = 1.2848
+    2000 → impact = 1.4735
+    5000 → impact = 2.0447
+  Fit: g(X) = 0.367521 * X^0.190
+
+Snapshot: Data/FROG/FROG_2025-05-01 00:00:00+00:00.csv
+     100 → impact = 0.3250
+     500 → impact = 0.7370
+    1000 → impact = 0.9808
+    2000 → impact = 1.2540
+    5000 → impact = 1.6608
+  Fit: g(X) = 0.050654 * X^0.420
+
+Snapshot: Data/FROG/FROG_2025-04-16 00:00:00+00:00.csv
+     100 → impact = 0.2400
+     500 → impact = 0.5540
+    1000 → impact = 0.9549
+    2000 → impact = 1.2561
+    5000 → impact = 1.4565
+  Fit: g(X) = 0.027819 * X^0.486
+
+Snapshot: Data/FROG/FROG_2025-04-10 00:00:00+00:00.csv
+     100 → impact = 0.7150
+     500 → impact = 0.8621
+    1000 → impact = 1.1955
+    2000 → impact = 1.3841
+    5000 → impact = 1.7599
+  Fit: g(X) = 0.223207 * X^0.239
+
+Snapshot: Data/FROG/FROG_2025-04-30 00:00:00+00:00.csv
+     100 → impact = 1.5474
+     500 → impact = 1.6906
+    1000 → impact = 1.9702
+    2000 → impact = 2.1965
+    5000 → impact = 2.6145
+  Fit: g(X) = 0.783217 * X^0.136
+
+Snapshot: Data/FROG/FROG_2025-04-23 00:00:00+00:00.csv
+     100 → impact = 1.2343
+     500 → impact = 1.4529
+    1000 → impact = 1.7067
+    2000 → impact = 1.9866
+    5000 → impact = 2.3246
+  Fit: g(X) = 0.550718 * X^0.166
+
+Snapshot: Data/FROG/FROG_2025-04-03 00:00:00+00:00.csv
+     100 → impact = 0.9500
+     500 → impact = 1.3420
+    1000 → impact = 1.5560
+    2000 → impact = 1.8279
+    5000 → impact = 2.4141
+  Fit: g(X) = 0.316039 * X^0.234
+
+Snapshot: Data/FROG/FROG_2025-04-22 00:00:00+00:00.csv
+     100 → impact = 1.4894
+     500 → impact = 1.7868
+    1000 → impact = 2.0409
+    2000 → impact = 2.1799
+    5000 → impact = 2.4832
+  Fit: g(X) = 0.806422 * X^0.132
+
+Snapshot: Data/FROG/FROG_2025-04-11 00:00:00+00:00.csv
+     100 → impact = 1.4659
+     500 → impact = 1.7937
+    1000 → impact = 1.9914
+    2000 → impact = 2.1973
+    5000 → impact = 2.5058
+  Fit: g(X) = 0.771999 * X^0.138
+
+Snapshot: Data/FROG/FROG_2025-04-21 00:00:00+00:00.csv
+     100 → impact = 0.4850
+     500 → impact = 0.4850
+    1000 → impact = 0.4850
+    2000 → impact = 0.8035
+    5000 → impact = 1.4890
+  Fit: g(X) = 0.106607 * X^0.272
+
+Snapshot: Data/FROG/FROG_2025-04-17 00:00:00+00:00.csv
+     100 → impact = 0.6200
+     500 → impact = 0.6750
+    1000 → impact = 1.0872
+    2000 → impact = 1.4313
+    5000 → impact = 1.8291
+  Fit: g(X) = 0.136884 * X^0.299
+
+Snapshot: Data/FROG/FROG_2025-04-07 00:00:00+00:00.csv
+     100 → impact = 0.6678
+     500 → impact = 1.2036
+    1000 → impact = 1.4568
+    2000 → impact = 1.6688
+    5000 → impact = 2.2543
+  Fit: g(X) = 0.170786 * X^0.305
+
+Snapshot: Data/FROG/FROG_2025-04-09 00:00:00+00:00.csv
+     100 → impact = 1.2636
+     500 → impact = 1.5551
+    1000 → impact = 1.7976
+    2000 → impact = 2.0137
+    5000 → impact = 2.5599
+  Fit: g(X) = 0.536866 * X^0.178
+
+Snapshot: Data/FROG/FROG_2025-04-04 00:00:00+00:00.csv
+     100 → impact = 0.4200
+     500 → impact = 0.6600
+    1000 → impact = 0.7400
+    2000 → impact = 0.9734
+    5000 → impact = 1.8874
+  Fit: g(X) = 0.071857 * X^0.360
+
+Snapshot: Data/FROG/FROG_2025-04-14 00:00:00+00:00.csv
+     100 → impact = 0.8858
+     500 → impact = 1.3385
+    1000 → impact = 1.5493
+    2000 → impact = 1.8978
+    5000 → impact = 2.3644
+  Fit: g(X) = 0.278701 * X^0.251
+
+Snapshot: Data/FROG/FROG_2025-04-24 00:00:00+00:00.csv
+     100 → impact = 0.6750
+     500 → impact = 0.7508
+    1000 → impact = 1.0908
+    2000 → impact = 1.4088
+    5000 → impact = 1.7725
+  Fit: g(X) = 0.179243 * X^0.263
+
+Snapshot: Data/FROG/FROG_2025-04-29 00:00:00+00:00.csv
+     100 → impact = 0.7500
+     500 → impact = 0.9956
+    1000 → impact = 1.3004
+    2000 → impact = 1.5737
+    5000 → impact = 2.2180
+  Fit: g(X) = 0.194934 * X^0.278
