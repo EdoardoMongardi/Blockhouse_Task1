@@ -45,16 +45,61 @@ def fit_power_law(volumes, impacts):
 
 def main():
     volumes = np.array([100, 500, 1000, 2000, 5000], dtype=float)
-    # recurse into Data/CRWV, Data/FROG, Data/SOUN
+
+    # Create separate output folders for each graph type
+    loglog_dir   = "Graph_LogLog"
+    resid_dir    = "Graph_Residuals"
+    os.makedirs(loglog_dir, exist_ok=True)
+    os.makedirs(resid_dir,  exist_ok=True)
+
+    # Loop over all CSV snapshots under Data/
     for csv_path in glob.glob("Data/**/*.csv", recursive=True):
+        # Load order book snapshot
         bid_p, bid_s, ask_p, ask_s, mid = load_mbp10_from_csv(csv_path)
+
+        # Compute impact for each volume
         impacts = np.array([impact_for_buy(X, ask_p, ask_s, mid) for X in volumes])
+
+        # Fit power‐law model
+        alpha, beta = fit_power_law(volumes, impacts)
 
         print(f"\nSnapshot: {csv_path}")
         for X, imp in zip(volumes, impacts):
             print(f"  {int(X):6d} → impact = {imp:.4f}")
-        alpha, beta = fit_power_law(volumes, impacts)
         print(f"  Fit: g(X) = {alpha:.6f} * X^{beta:.3f}")
+
+        base = os.path.splitext(os.path.basename(csv_path))[0]
+
+        # Log–Log Impact Plot
+        plt.figure()
+        plt.scatter(volumes, impacts, label="Data")
+        x_line = np.logspace(np.log10(volumes.min()),
+                             np.log10(volumes.max()), 100)
+        y_line = alpha * x_line**beta
+        plt.plot(x_line, y_line,
+                 label=f"Fit: α={alpha:.3f}, β={beta:.3f}")
+        plt.xscale("log")
+        plt.yscale("log")
+        plt.xlabel("Order size $X$")
+        plt.ylabel("Impact $g(X)$")
+        plt.title(f"Log–Log Impact Fit — {base}")
+        plt.legend()
+        plt.tight_layout()
+        plt.savefig(os.path.join(loglog_dir, f"impact_loglog_{base}.png"), dpi=300)
+        plt.close()
+
+        # Residuals Plot (percent error)
+        resid_pct = 100 * (impacts - (alpha * volumes**beta)) / impacts
+        plt.figure()
+        plt.plot(volumes, resid_pct, marker="o")
+        plt.xlabel("Order size $X$")
+        plt.ylabel("Residual error (%)")
+        plt.title(f"Residuals — {base}")
+        plt.xscale("linear")
+        plt.grid(True, which="both", ls="--", alpha=0.5)
+        plt.tight_layout()
+        plt.savefig(os.path.join(resid_dir, f"residuals_{base}.png"), dpi=300)
+        plt.close()
 
 if __name__ == "__main__":
     main()
