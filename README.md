@@ -1,4 +1,4 @@
-# Blockhouse_Task1\_Python
+# A research-grade Python framework for power-law market-impact modeling and optimized trade execution.
 
 This directory contains a pure Python script to simulate and analyze the temporary market impact function.
 
